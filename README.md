@@ -1,5 +1,5 @@
 
-# OBTENER bloque genesis
+# OBTENER BLOQUE GENESIS
 ```bash
 curl --silent -X GET "http://127.0.0.1:5001/get_chain" | jq
 curl --silent -X GET "http://127.0.0.1:5002/get_chain" | jq
